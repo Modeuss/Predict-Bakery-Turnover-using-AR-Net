@@ -1,5 +1,5 @@
 # Predict_Turnover_using_AR-Net
-An Application of AR-Net on Turnover time-series Dataset
+An Application of AR-Net on Turnover Time-series Dataset
 
 # Background
 AR-Net is a simple auto-regressive Neural Network for time-series ([link to paper](https://arxiv.org/abs/1911.12436)).
