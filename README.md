@@ -2,7 +2,7 @@
 An Application of AR-Net on Turnover time-series Dataset
 
 # Background
-AR-Net is a simple auto-regressive Neural Network for time-series (link to paper: https://arxiv.org/abs/1911.12436).
+AR-Net is a simple auto-regressive Neural Network for time-series ([link to paper](https://arxiv.org/abs/1911.12436)).
 
 # Install
 1. Go to the developer's repository (link to repository: https://github.com/ourownstory/AR-Net/blob/master/README.md#ar-net) 
