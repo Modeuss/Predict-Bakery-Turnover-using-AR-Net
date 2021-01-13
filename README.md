@@ -1,4 +1,4 @@
-# Predict_Turnover_using_AR-Net
+# Predict Turnover using AR-Net
 An Application of AR-Net on Turnover Time-series Dataset
 
 # Background
